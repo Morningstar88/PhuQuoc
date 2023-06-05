@@ -4,7 +4,7 @@
 
 ### We want to pay people more than 100,000VND per hour to collect trash, and beautify the streets. 
 
-### Our test site, showcasing local projects, is [here](https://phuquoc.vercel.app) 
+### Our test site, showcasing local projects, is [here](https://phuquoc.vercel.app). The code for the ticker is [open source, here](https://codepen.io/Teeke/pen/OJaLzJB) 
 
 <p align="center">
 <img src="https://github.com/Morningstar88/PhuQuoc/blob/main/DuongDongTown.jpg">
