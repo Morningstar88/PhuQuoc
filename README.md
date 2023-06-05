@@ -2,6 +2,11 @@
 
 ## Phu Quoc is a beautiful island. We're going to trial our open source software by setting up a trash collection system on the beach. 
 
+## To copy this project to your town...
+- Fork this README, customize it to your local area.
+- Set up a [custom AI](https://beta.charcter.ai) and [ticker](https://codepen.io/Teeke/pen/OJaLzJB). 
+- Look for funding. 
+
 <p align="center">
 <img src="https://github.com/Morningstar88/PhuQuoc/blob/main/DuongDongTown.jpg">
 </p>
