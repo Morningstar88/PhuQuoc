@@ -2,12 +2,7 @@
 
 ## Phu Quoc is a beautiful island. We're going to trial our open source software by setting up a trash collection system on the beach. 
 
-## We want to pay people more than 100,000VND per hour to collect trash, and beautify the streets. 
-
-## To copy this project to your town...
-- ### Fork this README, customize it to your local area.
-- ### Set up a [custom AI](https://beta.charcter.ai) and [ticker](https://codepen.io/Teeke/pen/OJaLzJB). 
-- ### Look for funding. 
+#### We want to pay people more than 100,000VND per hour to collect trash, and beautify the streets. 
 
 <p align="center">
 <img src="https://github.com/Morningstar88/PhuQuoc/blob/main/DuongDongTown.jpg">
@@ -20,3 +15,8 @@
 </p>
 
 ### Our [Phu Quoc ticker](https://phuquoc.vercel.app) is live now. See who's setting up projects on Phu Quoc.
+
+### To copy this project to your town...
+- #### Fork this README, customize it to your local area.
+- #### Set up a [custom AI](https://beta.charcter.ai) and [ticker](https://codepen.io/Teeke/pen/OJaLzJB). 
+- #### Look for funding. 
