@@ -2,7 +2,9 @@
 
 ## Phu Quoc is a beautiful island. We're going to trial our open source software by setting up a trash collection system on the beach. 
 
-#### We want to pay people more than 100,000VND per hour to collect trash, and beautify the streets. 
+### We want to pay people more than 100,000VND per hour to collect trash, and beautify the streets. 
+
+### Our test site, showcasing local projects, is [here](https://phuquoc.vercel.app) 
 
 <p align="center">
 <img src="https://github.com/Morningstar88/PhuQuoc/blob/main/DuongDongTown.jpg">
